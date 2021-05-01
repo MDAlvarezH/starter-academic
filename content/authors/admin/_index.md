@@ -6,12 +6,12 @@ title: M. David Alvarez Hernández
 superuser: true
 
 # Role/position/tagline
-role: Researcher of Data Science
+role: Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Instituto Nacional Electoral
-  url: https://www.stanford.edu/
+  url: https://www.ine.mx/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,12 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.mx/citations?user=3rwYgjYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
