@@ -24,9 +24,9 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
+- description: 100%
+  icon: fa-python
+  icon_pack: fab
   name: Photography
 
 # Uncomment to use emoji icons.
