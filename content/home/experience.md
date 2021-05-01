@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Mexico City
-    date_start: '2017-11'
+    date_start: '2017-11-01'
     date_end: ''
     description: |2-
         Responsibilities include:
